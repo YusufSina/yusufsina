@@ -26,6 +26,9 @@ That's it for now, let's get social!
   <a href="https://www.linkedin.com/in/yusufsina/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="Linkedin" width="100"/>
   </a>
+    <a href="https://superpeer.com/yusufsina">
+      <img src="https://d1gwdzz1cizk7o.cloudfront.net/images/projects/591ba0a6-8dd3-4fc6-ad82-db3bb610bf19/1606310718.png" alt="superpeer" width="75" >
+  </a>
 </div>
 
 
