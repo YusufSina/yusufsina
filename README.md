@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yusuf Sina. I am a undergrad & working for TRA Information Technologies as a software developer. I develop web & mobile applications.
+I am Yusuf Sina. I am working for TRA Information Technologies as a software developer. I develop web & mobile applications.
 
 The stuff that I am familiar with;
 
@@ -17,7 +17,7 @@ Furtheremore, I am into blockchain networks such as;
 <div style="margin-bottom: 20px;">
   <img src="https://media.giphy.com/media/HVNvHYTrMaDBn5Arxn/giphy.gif" alt="Ethereum" width="100"/>
 
-  <img src="https://gblobscdn.gitbook.com/spaces%2F-MKmFQYgp3Usx3i-VLJU%2Favatar-1604004712593.png?alt=media" alt="Avalanche" width="90" style="border-radius: 50px"/>
+  <img src="https://gblobscdn.gitbook.com/spaces%2F-MKmFQYgp3Usx3i-VLJU%2Favatar-rectangle-1628085377539.png?alt=media" alt="Avalanche" width="90" style="border-radius: 50px"/>
 </div>
 
 That's it for now, let's get social!
