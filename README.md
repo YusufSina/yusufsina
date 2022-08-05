@@ -1,12 +1,13 @@
 <h3 id="hi-there-">Hi there 👋</h3>
-<p>I am Yusuf Sina. I am working for TRA Information Technologies as a software developer. I develop web &amp; mobile applications.</p>
+<p>I am Yusuf Sina. I am working for Bitexen as a blockchain developer. I develop web &amp; mobile applications.</p>
 <p style="text-align:center">The stuff that I am familiar with;</p>
 <div style="display: flex; justify-content: space-around">
+  <img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
+
   <img src="https://mennankose.com/content/images/2019/10/netcore.png" alt="dotnet core" width="100"/>
 
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="100"/>
-
-  <img src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=400%2C331&ssl=1" alt="Docker" width="100"/>
+  
 </div>
 
 <p style="text-align:center">Furtheremore, I am into blockchain networks such as;</p>
