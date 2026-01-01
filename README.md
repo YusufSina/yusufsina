@@ -59,6 +59,7 @@ Alongside my professional work, I’m actively building and experimenting with m
 - 🌐 Website: https://yusufsina.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/yusufsina  
 - 🐦 X (Twitter): https://x.com/0xyusufsina  
+- 📫 Email: yusufsinayildiz@gmail.com
 
 ---
 
